@@ -1,4 +1,5 @@
-## Description
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-18 at 10 43 20](https://github.com/user-attachments/assets/7d99c964-6edc-4eb4-9d02-bb0e6db1ebfb)
+# Description
 
 This project is a SwiftUI application designed to track and record your geographical locations over time. The app utilizes Core Location for gathering location data and MapKit for visualizing this data on a map. Users can select a date to view their recorded locations, making it easy to track movements and revisit places.
 
